@@ -1,0 +1,35 @@
+#section-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	flex: 1;
+	padding: 0 25% 0 25%;
+}
+
+#container-center {
+	display: flex;
+	justify-content: center;
+}
+
+#container-input {
+	padding: 0 2% 0 2%;
+}
+
+#container-input form {
+	display: flex;
+	flex-direction: column;
+}
+
+#funcionario-card {
+	width: 400px;
+}
+
+.ler-input  {
+	all: unset;
+	padding: 10px;
+	margin: 10px;
+	font-family: 'Inter';
+	background-color: white;
+	border-radius: 10px;
+}
