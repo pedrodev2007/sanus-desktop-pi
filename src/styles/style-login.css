@@ -1,11 +1,3 @@
-#section-center {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	width: 100%;
-	flex: 1;
-	padding: 0 25% 0 25%;
-}
 
 #container-center {
 	display: flex;
@@ -21,7 +13,7 @@
 	flex-direction: column;
 }
 
-#funcionario-card {
+#login-card {
 	width: 400px;
 }
 
@@ -32,4 +24,8 @@
 	font-family: 'Inter';
 	background-color: white;
 	border-radius: 10px;
+}
+
+#esqueceu_senha {
+    margin-left: 1rem;
 }

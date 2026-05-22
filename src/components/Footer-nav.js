@@ -1,4 +1,4 @@
-import "../style-global.css";
+import "../styles/style-global.css";
 
 export function Footer_nav() {
     document.querySelector("footer").innerHTML = `
@@ -14,7 +14,7 @@ export function Footer_nav() {
                 <li><a href="">CLIENTE (3)</a></li>
                 <div class="vl"></div>
                 <li><a href="">SAIR (4)</a></li>
-            </ul>
+            </ul> 
         </nav>
     </section>
     ` 

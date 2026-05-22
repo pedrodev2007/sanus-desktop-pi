@@ -1,4 +1,4 @@
-import "../style-global.css";
+import "../styles/style-global.css";
 
 export function Header() {
     document.querySelector("header").innerHTML = `
