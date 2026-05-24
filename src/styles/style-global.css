@@ -19,13 +19,22 @@ main {
 }
 
 
-h1, h2, p, li {
+h1, h2, p, li, button {
 	font-family: Inter;
 	color: white;
 }
 
+button {
+	cursor: pointer;
+	border: none;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #2596BE;
+}
 
-
+button:hover {
+	background-color: #2AA0CA;
+}
 a {
 	font-family: Inter;
 }

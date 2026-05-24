@@ -29,3 +29,14 @@
 #esqueceu_senha {
     margin-left: 1rem;
 }
+
+#footer-card {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#login-btn {
+	margin-right: 1rem;
+	font-size: 1rem;
+}
